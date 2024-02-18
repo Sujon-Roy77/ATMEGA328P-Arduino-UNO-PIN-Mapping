@@ -4,4 +4,4 @@ Arduino UNO circuit ATMega328 IC Pin diagram and pin instruction in the arduino 
 
 
 
-https://sujon-roy77.github.io/ATMEGA328P-Arduino-UNO-PIN-Mapping/
+https://github.com/Sujon-Roy77/ATMEGA328P-Arduino-UNO-PIN-Mapping
